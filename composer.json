@@ -1,0 +1,15 @@
+{
+    "name": "amelielecoz/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Amelielecoz\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amelielecoz",
+            "email": "amelie.lecoz00@gmail.com"
+        }
+    ],
+    "require": {}
+}
